@@ -12,7 +12,7 @@ public class Main {
 	    Quartier rouge = new Quartier("Rouge", 150, 150);
 	    Quartier jaune = new Quartier("Jaune", 150, 150);
 	    Quartier vert = new Quartier("Vert", 200, 200);
-	    Quartier bleuFonce = new Quartier("Bleu Fonc�", 200, 200);
+	    Quartier bleuFonce = new Quartier("Bleu Foncé", 200, 200);
 	    
 	    // Liste de toutes les cases propri�t�s 
 	    // Param : nom, prixAchat, loyer, loyer1maison, loyer2maison, loyer3maison, loyer4maison, loyerHotel, quartier
@@ -23,7 +23,7 @@ public class Main {
 	    
 	    Terrain bleuClair1 = new Terrain("Rue de Vaugirad", 100, 6, 30, 90, 270, 400, 550, bleuClair);
 	    Terrain bleuClair2 = new Terrain("Rue de Courcelles", 100, 6, 30, 90, 270, 400, 550, bleuClair);
-	    Terrain bleuClair3 = new Terrain("Avenue de la r�publique", 120, 8, 40, 100, 300, 450, 600, bleuClair);
+	    Terrain bleuClair3 = new Terrain("Avenue de la république", 120, 8, 40, 100, 300, 450, 600, bleuClair);
 	    bleuClair.ajouteTerrain(bleuClair1);
 	    bleuClair.ajouteTerrain(bleuClair2);
 	    bleuClair.ajouteTerrain(bleuClair3);
@@ -49,7 +49,7 @@ public class Main {
 	    rouge.ajouteTerrain(rouge2);
 	    rouge.ajouteTerrain(rouge3);
 	    
-	    Terrain jaune1 = new Terrain("Faubourg Saint-Honor�", 260, 22, 110, 330, 800, 975, 150, jaune);
+	    Terrain jaune1 = new Terrain("Faubourg Saint-Honoré", 260, 22, 110, 330, 800, 975, 150, jaune);
 	    Terrain jaune2 = new Terrain("Place de la Bourse", 260, 22, 110, 330, 800, 975, 150, jaune);
 	    Terrain jaune3 = new Terrain("Rue de la fayette", 280, 24, 120, 360, 850, 1025, 1200, jaune);
 	    jaune.ajouteTerrain(jaune1);
@@ -122,7 +122,7 @@ public class Main {
 	    
 		Joueur paul = new Joueur("Paul");
 		Joueur luc = new Joueur("Luc");
-		Joueur theo = new Joueur("Th�o");
+		Joueur theo = new Joueur("Théo");
 		p.ajouteJoueur(paul);
 		p.ajouteJoueur(luc);
 		p.ajouteJoueur(theo);
