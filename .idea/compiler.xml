@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Monopoly" />
+        <module name="Willy-Gentet-monopoly" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Monopoly" target="17" />
+      <module name="Willy-Gentet-monopoly" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
