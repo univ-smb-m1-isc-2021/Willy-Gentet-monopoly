@@ -5,12 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dde7c463-1ebd-4454-bbea-81841aef0f0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Batiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Batiment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CaseDepart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/CaseDepart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/De.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/De.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EtatAchete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/EtatAchete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EtatCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/EtatCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EtatConstructible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/EtatConstructible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EtatConstruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/EtatConstruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EtatLibre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/EtatLibre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Gare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Gare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Impots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Impots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Joueur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Joueur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainJouer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/MainJouer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Maison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Maison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ParcGratuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/ParcGratuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Partie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Partie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Propriete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Propriete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Quartier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Quartier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Terrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Terrain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JoueurTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JoueurTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Willy-Gentet-monopoly-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Willy-Gentet-monopoly-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Batiment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Case.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CaseDepart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/De.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EtatAchete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EtatCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EtatConstructible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EtatConstruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EtatLibre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Gare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hotel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Impots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Joueur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainJouer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Maison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ParcGratuit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Partie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Propriete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Quartier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Terrain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,8 +93,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -55,9 +116,10 @@
     <option name="myCommands">
       <command value="mvn clean" />
       <command value="mvn deploy" />
+      <command value="mvn test --file pom.xml" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.JoueurTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Willy-Gentet-monopoly" />
@@ -65,8 +127,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JoueurTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Willy-Gentet-monopoly" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JoueurTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoueurTest.nom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Willy-Gentet-monopoly" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JoueurTest" />
+      <option name="METHOD_NAME" value="nom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JoueurTest" />
+        <item itemvalue="JUnit.JoueurTest.nom" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -79,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641221480125</updated>
-      <workItem from="1641221487817" duration="6607000" />
+      <workItem from="1641221487817" duration="8283000" />
     </task>
     <servers />
   </component>
