@@ -20,7 +20,8 @@ public class Main {
 	    Terrain marron2 = new Terrain("Rue Lecourbe", 60, 4, 20, 60, 180, 320, 450, marron);
 	    marron.ajouteTerrain(marron1);
 	    marron.ajouteTerrain(marron2);
-	    
+
+		
 	    Terrain bleuClair1 = new Terrain("Rue de Vaugirad", 100, 6, 30, 90, 270, 400, 550, bleuClair);
 	    Terrain bleuClair2 = new Terrain("Rue de Courcelles", 100, 6, 30, 90, 270, 400, 550, bleuClair);
 	    Terrain bleuClair3 = new Terrain("Avenue de la république", 120, 8, 40, 100, 300, 450, 600, bleuClair);
