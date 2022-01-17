@@ -7,6 +7,10 @@
     <list default="true" id="dde7c463-1ebd-4454-bbea-81841aef0f0e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/monopoly/De.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/De.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/De.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/De.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Joueur.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/Joueur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/JoueurTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/JoueurTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-JoueurTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-JoueurTest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +50,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -115,7 +120,8 @@
       <workItem from="1641250024352" duration="1483000" />
       <workItem from="1642365802941" duration="1017000" />
       <workItem from="1642422823894" duration="4360000" />
-      <workItem from="1642431644890" duration="50000" />
+      <workItem from="1642431644890" duration="152000" />
+      <workItem from="1642431806288" duration="2074000" />
     </task>
     <servers />
   </component>
