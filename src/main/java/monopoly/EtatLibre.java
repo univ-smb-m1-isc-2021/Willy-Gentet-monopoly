@@ -11,8 +11,8 @@ public class EtatLibre implements EtatCase {
 	}
 
 	public void arriveeJoueur(Joueur j) {
-    	System.out.println(j.getNom() + " arrive sur le terrain : " + t.getNom());
-    	if(j.getSolde() > t.getPrixAchat()) {
+		messageArrivee(j, t);
+		if(j.getSolde() > t.getPrixAchat()) {
     		System.out.println("Acheter ce terrain pour " + t.getPrixAchat() + "M ? (Solde : " + j.getSolde() + "M)");
     		System.out.println("1 = oui; 2 = non");
     		Scanner s = new Scanner(System.in);

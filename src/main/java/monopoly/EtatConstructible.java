@@ -2,13 +2,13 @@ package monopoly;
 
 public class EtatConstructible implements EtatCase {
 	private Terrain t;
-	
+
     public EtatConstructible(Terrain terrain) {
 		super();
 		this.t = terrain;
 	}
     public void arriveeJoueur(Joueur j) {
-    	System.out.println(j.getNom() + " arrive sur " + t.getNom() + ", qui appartient � " + t.getProprio().getNom());
+		messageArrivee(j, t);
     	if(j.getNom().equals(t.getProprio().getNom())) {
     		System.out.println(j.getNom() + " est chez lui");
     	} else {
