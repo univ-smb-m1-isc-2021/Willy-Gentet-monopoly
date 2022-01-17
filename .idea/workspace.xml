@@ -5,8 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dde7c463-1ebd-4454-bbea-81841aef0f0e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/monopoly/De.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/De.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Batiment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Case.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/CaseDepart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/De.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatAchete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatConstructible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatConstruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatLibre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Gare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Hotel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Impots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Joueur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/MainJouer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Maison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/ParcGratuit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Partie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Propriete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Quartier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Terrain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +139,7 @@
       <workItem from="1642365802941" duration="1017000" />
       <workItem from="1642422823894" duration="4360000" />
       <workItem from="1642431644890" duration="152000" />
-      <workItem from="1642431806288" duration="2429000" />
+      <workItem from="1642431806288" duration="2839000" />
     </task>
     <servers />
   </component>
