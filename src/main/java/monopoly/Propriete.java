@@ -17,14 +17,13 @@ public abstract class Propriete extends Case {
 	}
 
 	public boolean estLibre() {
-		return proprio == null;
+		return getProprio() == null;
     }
 
     public abstract int sommeAPayer();
 
-
 	public void gereArriveeGareService(Joueur j){
-		if(getProprio() == null) {
+		if(estLibre()) {
 			System.out.println(getNom() + " est libre. Acheter pour " + getPrixAchat() + "M ? (Solde : " + j.getSolde() + "M)");
 			System.out.println("1 = oui; 2 = non");
 			Scanner s = new Scanner(System.in);
