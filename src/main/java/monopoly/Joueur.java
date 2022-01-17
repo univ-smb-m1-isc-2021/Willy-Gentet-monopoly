@@ -115,7 +115,7 @@ public class Joueur {
 				Thread.sleep(2000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
-				Thread.interrupt()
+				Thread.interrupt();
 			}
 		}
 	}
