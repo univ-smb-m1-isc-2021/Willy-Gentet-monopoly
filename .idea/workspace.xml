@@ -7,10 +7,6 @@
     <list default="true" id="dde7c463-1ebd-4454-bbea-81841aef0f0e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/monopoly/De.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/De.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/De.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/De.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Joueur.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/Joueur.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/JoueurTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/JoueurTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-JoueurTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-JoueurTest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +117,7 @@
       <workItem from="1642365802941" duration="1017000" />
       <workItem from="1642422823894" duration="4360000" />
       <workItem from="1642431644890" duration="152000" />
-      <workItem from="1642431806288" duration="2074000" />
+      <workItem from="1642431806288" duration="2429000" />
     </task>
     <servers />
   </component>
@@ -138,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
