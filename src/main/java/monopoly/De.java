@@ -1,6 +1,6 @@
 package monopoly;
 
-import java.util.SecureRandom;
+import java.security.SecureRandom;
 
 public class De {
     private int valeur;
