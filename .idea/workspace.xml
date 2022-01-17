@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dde7c463-1ebd-4454-bbea-81841aef0f0e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/monopoly/Joueur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Joueur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/monopoly/De.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/De.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,8 @@
       <workItem from="1641221487817" duration="8781000" />
       <workItem from="1641250024352" duration="1483000" />
       <workItem from="1642365802941" duration="1017000" />
-      <workItem from="1642422823894" duration="4167000" />
+      <workItem from="1642422823894" duration="4360000" />
+      <workItem from="1642431644890" duration="50000" />
     </task>
     <servers />
   </component>
