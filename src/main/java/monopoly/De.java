@@ -1,12 +1,12 @@
 package monopoly;
 
-import java.util.Random;
+import java.util.SecureRandom;
 
 public class De {
     private int valeur;
     
     public void lance() {
-		Random r = new Random();
+		SecureRandom r = new SecureRandom();
 		valeur = r.nextInt(7-1) + 1;
     }
 
