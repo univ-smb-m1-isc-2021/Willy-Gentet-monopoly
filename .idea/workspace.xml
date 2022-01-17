@@ -6,9 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="dde7c463-1ebd-4454-bbea-81841aef0f0e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/monopoly/Gare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Gare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/monopoly/Propriete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Propriete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/monopoly/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/monopoly/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JoueurTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JoueurTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatAchete.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/EtatAchete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/EtatCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatConstructible.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/EtatConstructible.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatConstruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/EtatConstruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/EtatLibre.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/EtatLibre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Gare.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/Gare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Propriete.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/Propriete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/monopoly/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/monopoly/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/JoueurTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/JoueurTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-JoueurTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-JoueurTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JoueurTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JoueurTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +128,7 @@
       <workItem from="1642365802941" duration="1017000" />
       <workItem from="1642422823894" duration="4360000" />
       <workItem from="1642431644890" duration="152000" />
-      <workItem from="1642431806288" duration="5156000" />
+      <workItem from="1642431806288" duration="6703000" />
     </task>
     <servers />
   </component>
